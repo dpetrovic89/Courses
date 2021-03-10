@@ -30,3 +30,5 @@ Business Analyst - Udacity
 
 Business Analytics Nanodegree - Udacity
 
+Full Stack Deep Learning
+
